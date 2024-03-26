@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+
+}
+
+.my-profile {
+    font-size: 20px;
+    padding: 10px;
+    margin: auto;
+    background-color: rgb(251, 223, 228);
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+img {
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+    padding: 10px;
+}
+
+h1 {
+    padding: 10px;
+    margin: 10px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: brown;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+
+.work {
+    text-align: center;
+    font-size: bold;
+    margin-top: 10px;
+}
